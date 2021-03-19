@@ -2,3 +2,4 @@
 # Dynamically typed language
 # Getting user input
 
+print("hello world")
